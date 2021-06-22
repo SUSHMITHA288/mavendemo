@@ -5,7 +5,7 @@
   <artifactId>Demo2</artifactId>
   <packaging>war</packaging>
   <version>1.0</version>
-  <name>Demo2 Maven Webapp</name>
+  <name>Demo2-Maven-Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
